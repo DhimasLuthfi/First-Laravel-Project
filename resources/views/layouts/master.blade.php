@@ -68,7 +68,7 @@
             </div>
             <!-- /.card-body -->
             <div class="card-footer">
-              Footer
+              Dhimas Luthfi Arnanda - 24060123120040
             </div>
             <!-- /.card-footer-->
           </div>
@@ -81,7 +81,7 @@
 
       <footer class="main-footer">
         <div class="float-right d-none d-sm-block">
-          <b>Version</b> 3.2.0
+          <b>Dhimas Luthfi Arnanda</b>
         </div>
         <strong>Copyright &copy; 2014-2025 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
       </footer>
